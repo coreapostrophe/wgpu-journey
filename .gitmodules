@@ -1,0 +1,3 @@
+[submodule "sothr-hands-on"]
+	path = sothr-hands-on
+	url = https://github.com/coreapostrophe/sothr-hands-on.git
