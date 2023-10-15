@@ -1,3 +1,6 @@
 [submodule "sothr-hands-on"]
 	path = sothr-hands-on
 	url = https://github.com/coreapostrophe/sothr-hands-on.git
+[submodule "practical-graphics-hands-on"]
+	path = practical-graphics-hands-on
+	url = https://github.com/coreapostrophe/practical-graphics-hands-on.git
