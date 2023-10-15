@@ -4,3 +4,6 @@
 [submodule "practical-graphics-hands-on"]
 	path = practical-graphics-hands-on
 	url = https://github.com/coreapostrophe/practical-graphics-hands-on.git
+[submodule "wgpu-playground"]
+	path = wgpu-playground
+	url = https://github.com/coreapostrophe/wgpu-playground.git
